@@ -102,7 +102,7 @@ export default function ForecastChart({ data, location }: ForecastChartProps) {
           padding: 20,
           font: {
             size: 12,
-            weight: '500' as const
+            weight: 500
           }
         }
       },
@@ -149,7 +149,7 @@ export default function ForecastChart({ data, location }: ForecastChartProps) {
           text: 'Air Quality Index (AQI)',
           font: {
             size: 12,
-            weight: '500' as const
+            weight: 500
           }
         },
         grid: {
@@ -170,7 +170,7 @@ export default function ForecastChart({ data, location }: ForecastChartProps) {
           text: 'PM2.5 (μg/m³)',
           font: {
             size: 12,
-            weight: '500' as const
+            weight: 500
           }
         },
         grid: {
