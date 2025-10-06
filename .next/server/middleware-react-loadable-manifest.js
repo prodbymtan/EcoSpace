@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app/page.tsx -> ./components/AirQualityMap\":{\"id\":\"app/page.tsx -> ./components/AirQualityMap\",\"files\":[\"static/css/_app-pages-browser_app_components_AirQualityMap_tsx.css\",\"static/chunks/_app-pages-browser_app_components_AirQualityMap_tsx.js\"]}}"
